@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Instrutor
+comment1.params=aulaExercida
+comment1.target=void\ setAula(int)
+comment2.params=
+comment2.target=int\ getAula()
+numComments=3
